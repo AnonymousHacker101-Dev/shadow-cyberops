@@ -1,0 +1,9 @@
+{
+  "name": "shadow-cyberops",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static biotech hacker landing page",
+  "scripts": {
+    "start": "serve ."
+  }
+}
